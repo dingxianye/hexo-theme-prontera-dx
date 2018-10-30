@@ -5,32 +5,33 @@ favicon: /favicon.ico
 menu:
     Index: /
     Archives: /archives
+    Booklist: /booklist
+    Resume: /resume
 
 # Nav Shortcut Icons
 nav_icons:
-    - ['/images/github.svg', 'https://github.com/AngryPowman']
-    - ['/images/rss.svg', '/atom.xml']
+    - ['/images/github.svg', 'https://github.com/dingxianye']
+    # - ['/images/rss.svg', '/atom.xml']
 
 # Friend Links
 friend_links:
-    - ['AngryPowman', 'This is a link', 'http://powman.org']
-    - ['Demo Links', 'You can change this in your theme config', 'http://powman.org']
-
+    - ['Dinghui.Ye Online', 'JavaWeb, BigData, Algorithm', 'http://dinghuiye.online/']
+    - ['Derek重名了', '想开家面馆，可惜只会吃不会做，怎么办？在线等...', 'https://www.jianshu.com/u/cd2ecc3a1eb7']
 
 # About
 about_info:
-    name: "AngryPowman"
-    bio: "十年饮冰·难凉热血"
-    avatar: "/images/avatar.png"
+    name: "Derek"
+    bio: "王になる人"
+    avatar: "/images/icon.png"
 
 # Comment
 # e.g disqus: seansun
-disqus: angrypowman
+disqus: 
 duoshuo: 
 
 # Analytics
-google_analytics: angrypowman
-tencent_analytics: 
+google_analytics: false
+tencent_analytics: false
  
 # Copyright Infomation
-startyear: 2017
+startyear: 2018

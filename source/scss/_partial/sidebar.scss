@@ -44,6 +44,7 @@
     a.link-item {
         .link-container {
             padding: 10px;
+            max-width: 200px;
             .site-name {
                 color: $MAIN_COLOR;
             }
